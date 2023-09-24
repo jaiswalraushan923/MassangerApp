@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534772276238",
+    "project_id": "masangerapp",
+    "storage_bucket": "masangerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534772276238:android:64344ba46b8ecaeed5305f",
+        "android_client_info": {
+          "package_name": "com.example.masangerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534772276238-f7mjk3ijgamj3qk393kaufijbmol0t52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0lenJyVwxZgxuFZbknvojrHVXjugj7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534772276238-f7mjk3ijgamj3qk393kaufijbmol0t52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
